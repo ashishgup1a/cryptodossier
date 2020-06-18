@@ -1,6 +1,5 @@
 title: Crypto Dossier
-description: > # this means to ignore newlines until "baseurl:"
-This website will host all of my videos and articles which i create for different blockchain porjects and speard their awareness.
+description: > This website will host all of my videos and articles which i create for different blockchain porjects and speard their awareness. # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/cryptodossier" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
