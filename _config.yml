@@ -1,8 +1,6 @@
-title: Hello, world! I'm David Freeman
+title: Crypto Dossier
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+This website will host all of my videos and articles which i create for different blockchain porjects and speard their awareness.
 permalink: ':title/'
 baseurl: "/cryptodossier" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -12,11 +10,11 @@ site-twitter: "https://twitter.com/ultron91x" #if your site has a twitter accoun
 author: ultron91x # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: YouTuber | Blogger | Blockchain Follower | CryptoCurrency Lover. # add description
-social-twitter: # @ultron91x
+social-twitter: @ultron91x # my twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-telegram: # add your Linkedin handle
-#social-email: # add your Email address
+social-email: # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
